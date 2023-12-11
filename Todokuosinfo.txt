@@ -1,0 +1,15 @@
+? ---- What is TodokuOS? ---- ?
+
+TodokuOS is an operating system built with the children's programming platform, Scratch and its mods.
+You can get any help in this document about TodokuOS.
+
+! ---- TodokuOS stop codes ---- !
+
+You will be finding all the stop codes in the color screens or errors.
+
+1 - TASK_INCOMPATIBLE_APP:
+This error code appears when an application/task is runned when it is a work in progress or incompatible.
+So you will have to wait until the application/task is finished.
+If it's finished and you're trying to run the application/task in the Scratch version (posted already),
+It doesn't run because scratch doesn't support enough scripts so you will have to use the packed version.
+Latest version now (?): TodokuOS version 1680 beta
